@@ -112,7 +112,7 @@
   height: 2px;
 }
 
-.loginPage a{
+.loginPage a {
   text-decoration: none;
 }
 
@@ -146,6 +146,9 @@
   font-weight: 700;
   letter-spacing: 0.5px;
   color: #002f34;
+}
+#logout {
+  cursor: pointer;
 }
 
 /* .sellMenu .sellMenuContent svg {
